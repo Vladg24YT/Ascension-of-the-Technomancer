@@ -1,4 +1,60 @@
 # Ascension-of-the-Technomancer
+
+## Differences from upstream
+
+This forked repo attempts to compile a list of mods used in pack version 7.0.1.
+
+⚠️ means that the mod version was not tested.<br>
+✅ means that the mod version seems to work as intended.  
+
+<details>
+<summary>Pack version 7.0.1 modlist</summary>
+
+| Mod | Version & download | Test results |
+| :--- | :--- | :---: |
+| Advanced Hook Launchers | [2.1.1.0 build 0061](https://www.curseforge.com/minecraft/mc-mods/advanced-hook-launchers/files/2432339) | ✅ |
+| Advanced Rocketry | [1.2.2](https://www.curseforge.com/minecraft/mc-mods/advanced-rocketry/files/2433239) | ✅ |
+| Advent of Ascension | [2.5](https://www.curseforge.com/minecraft/mc-mods/advent-of-ascension-nevermine/files/2973553) | ✅ |
+| Advent of Ascension | [Tslat 1.0, a more stable version of 2.5](https://www.curseforge.com/minecraft/mc-mods/advent-of-ascension-nevermine/files/2973554) | ⚠️ |
+| AE2 Stuff | [0.5.1.9 for AE rv3](https://www.curseforge.com/minecraft/mc-mods/ae2-stuff/files/2270295) | ✅ |
+| Aether Aspects | [1.2](https://www.curseforge.com/minecraft/mc-mods/aether-aspects/files/2230497) | ✅ |
+| Aether II | [1.6](https://www.curseforge.com/minecraft/mc-mods/aether-ii/files/2273367) | ✅ |
+| AgriCraft | [1.5.0](https://www.curseforge.com/minecraft/mc-mods/agricraft/files/2284130) | ✅ |
+| Carpenter's Blocks |  | ⚠️ |
+| ChromatiCraft |  | ⚠️ |
+| Chunk Pregenerator |  | ⚠️ |
+| CraftTweaker |  | ⚠️ |
+| DragonAPI |  | ⚠️ |
+| ElectriCraft |  | ⚠️ |
+| Gendustry |  | ⚠️ |
+| GeoStrata |  | ⚠️ |
+| GregTech |  | ⚠️ |
+| GTTweaker |  | ⚠️ |
+| Itit |  | ⚠️ |
+| libVulpes |  | ⚠️ |
+| MeteorCraft |  | ⚠️ |
+| MineFactory Reloaded |  | ⚠️ |
+| Modular Powersuits |  | ⚠️ |
+| Natura |  | ⚠️ |
+| Nether Ores |  | ⚠️ |
+| NEI Addons |  | ⚠️ |
+| NotEnoughIDs |  | ⚠️ |
+| OpenComputers |  | ⚠️ |
+| OpenModsLib |  | ⚠️ |
+| ReactorCraft |  | ⚠️ |
+| RotaryCraft |  | ⚠️ |
+| SmoothFont |  | ⚠️ |
+| Thaumic Energistics |  | ⚠️ |
+| Thaumic NEI |  | ⚠️ |
+| Tinkers Construct |  | ⚠️ |
+| VillageNames |  | ⚠️ |
+| VoidMonster |  | ⚠️ |
+| Xaero's Minimap |  | ⚠️ |
+
+</details>
+
+## Original repo description
+
 Current LIVE Config Version 5.3.2
 Repository Config Version 5.4.2
 
@@ -6,15 +62,15 @@ Hello there friend. It seems as though you've met with a terrible fate, haven't 
 
 Welcome to the world of Ascension of the Technomancer, a high difficulty alternative to typical "kitchen sink" type packs. This pack has a major focus on exploration, and features a high degree of cross mod integration. The recipes used in this pack were initially derived from a mix of FTB Infinity Evolved expert mode and InfiTech 2, but were heavily customized from there to ensure a unique modded Minecraft experience like no other.
 
-Advent of Ascension, Hardcore Ender Expansion, and Twilight Forest, Advanced Rocketry, and The Aether II provide the player with more than 30 new planets and dimensions to explore across five star systems. Ore generation is a mix of GregTech style veins scattered clusters. This encourages exploration to find the next big deposit of essential resources, while not leaving you stuck if you can�t find the type of ore vein you need.
+Advent of Ascension, Hardcore Ender Expansion, and Twilight Forest, Advanced Rocketry, and The Aether II provide the player with more than 30 new planets and dimensions to explore across five star systems. Ore generation is a mix of GregTech style veins scattered clusters. This encourages exploration to find the next big deposit of essential resources, while not leaving you stuck if you can’t find the type of ore vein you need.
 
-The tech side of the pack centers around GregTech 5 experimental, but includes all of the major tech mods (Thermal Expansion, EnderIO, MFR...) you�ve come to know and love. The magic side of the house features all of the major 1.7.10 magic mods, along with some less common fare like Ars Magica, and Aura Cascade to bring a unique twist to aspiring witches and wizards. Reika's mods Rotarycraft, ReactorCraft, and ChromatiCraft are also here, giving you the rare opportunity to experience some of the most challenging, engaging, and sophisticated mods ever written.
+The tech side of the pack centers around GregTech 5 experimental, but includes all of the major tech mods (Thermal Expansion, EnderIO, MFR...) you’ve come to know and love. The magic side of the house features all of the major 1.7.10 magic mods, along with some less common fare like Ars Magica, and Aura Cascade to bring a unique twist to aspiring witches and wizards. Reika's mods Rotarycraft, ReactorCraft, and ChromatiCraft are also here, giving you the rare opportunity to experience some of the most challenging, engaging, and sophisticated mods ever written.
 
-Survival challenges have been enhanced with Hunger Overhaul, Spice of Life, Harvestcraft, and Agricraft.� �There are 100s of new mobs ranging from cute and fluffy woodland creatures to nightmarish eldritch horrors. All organized into custom spawn tables, written from the ground up with Just Another Spawner. The landscape is littered with countless; cities, ruins, castles, monuments, and dungeons that are filled with treasures for you to discover. The loot tables are heavily customized with hundereds different items to help you survie and thrive in this vast, harsh landscape.
+Survival challenges have been enhanced with Hunger Overhaul, Spice of Life, Harvestcraft, and Agricraft.   There are 100s of new mobs ranging from cute and fluffy woodland creatures to nightmarish eldritch horrors. All organized into custom spawn tables, written from the ground up with Just Another Spawner. The landscape is littered with countless; cities, ruins, castles, monuments, and dungeons that are filled with treasures for you to discover. The loot tables are heavily customized with hundereds different items to help you survie and thrive in this vast, harsh landscape.
 
 All of this comes together to create one of the biggest modpacks ever made available, serving as a loving tribute to the epic 1.7.10 modding scene. Sure, there are now newer versions of modded Minecraft to explore, but nothing matching the vast scope of what was available for this release.
 
-Do you consider yourself a Minecraft expert? Then welcome to your greatest challenge... or your undoing.� Good luck friend, You're going to need it.
+Do you consider yourself a Minecraft expert? Then welcome to your greatest challenge... or your undoing.  Good luck friend, You're going to need it.
 
 UPDATE1: Although I have been MIA for quite a while version 6.0.1 should be reviewed for go-live soon.  Tons of new content and bugfixes to enjoy.
 
