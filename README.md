@@ -2,7 +2,7 @@
 
 ## Differences from upstream
 
-This forked repo attempts to compile a list of mods used in pack version 7.0.1.
+This forked repo attempts to compile a list of mods used in pack version 7.0.1 using the latest mod versions by December 20th, 2019.
 
 ⚠️ means that the mod version was not tested.<br>
 ✅ means that the mod version seems to work as intended.  
