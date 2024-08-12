@@ -150,7 +150,6 @@ Some aesthetic mods have been removed in 6.0.1, however the exact mods were not 
 | GTTweaker |  | ⚠️ | Updated |
 | guardianchest | [1.6] |  | - |
 | Guide API | [1.7.10-1.0.1-29] |  | - |
-<!-- Paused here -->
 | Hardore Questing Mode | `<none>` | ⚠️ | Removed |
 | ItemBlacklist |  | ⚠️ | Added |
 | It's the little things |  | ⚠️ | Updated |
