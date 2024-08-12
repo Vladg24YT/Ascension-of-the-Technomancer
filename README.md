@@ -16,21 +16,21 @@ Some aesthetic mods have been removed in 6.0.1, however the exact mods were not 
 | :--- | :--- | :---: | :--- |
 | Advanced Hook Launchers | [1.7.10-2.1.1.0 build 0061](https://www.curseforge.com/minecraft/mc-mods/advanced-hook-launchers/files/2432339) | ✅ | - |
 | Advanced Rocketry | [1.7.10-1.2.2](https://www.curseforge.com/minecraft/mc-mods/advanced-rocketry/files/2433239) | ✅ | - |
-| Adventurebackpack |  | ⚠️ | Added |
+| Adventurebackpack | [Beta-0.8c](https://www.curseforge.com/minecraft/mc-mods/adventure-backpack/files/2267532) | ⚠️ | Added |
 | Advent of Ascension | [Tslat 1.0](https://www.curseforge.com/minecraft/mc-mods/advent-of-ascension-nevermine/files/2973554)? | ⚠️ | Updated |
 | AE2 Stuff | [0.5.1.9 for AE rv3](https://www.curseforge.com/minecraft/mc-mods/ae2-stuff/files/2270295) | ✅ | - |
 | Aether Aspects | [1.7.10-1.2](https://www.curseforge.com/minecraft/mc-mods/aether-aspects/files/2230497) | ✅ | - |
 | Aether II | [1.7.10-1.6](https://www.curseforge.com/minecraft/mc-mods/aether-ii/files/2273367) | ✅ | - |
 | AgriCraft | [1.5.0](https://www.curseforge.com/minecraft/mc-mods/agricraft/files/2284130) | ✅ | - |
-| AnimationAPI | [1.7.10-1.2.4] |  | - |
-| Another One Bites The Dust | [2.9.2] |  | - |
-| Another One Bites The Dust: Berry Bushes | [1.0.6]  |  | - |
-| Another One Bites The Dust: Singulaties | [1.0.4] |  | - |
-| Anti Id Conflict | [1.3.5] |  | - |
-| AppleCore | [1.3.9] |  | - |
-| Applied Energistics 2 | [rv3-beta-6] |  | - |
-| Archimedes' Ships Plus | [1.7.10-1.8.1] |  | - |
-| ArchitectureCraft |  | ⚠️ | Added |
+| AnimationAPI | [1.7.10-1.2.4](https://www.curseforge.com/minecraft/mc-mods/animationapi/files/2221721) | ✅ | - |
+| Another One Bites The Dust | [2.9.2](https://legacy.curseforge.com/minecraft/mc-mods/another-one-bites-the-dust/files/2305237) | ✅ | - |
+| Another One Bites The Dust: Berry Bushes | [1.0.6](https://legacy.curseforge.com/minecraft/mc-mods/another-one-bites-the-dust-berry-bushes/files/2263870)  | ✅ | - |
+| Another One Bites The Dust: Singulaties | [1.0.4](https://www.curseforge.com/minecraft/mc-mods/aobd-singularities/files/2348928) | ✅ | - |
+| Anti Id Conflict | [1.3.5](https://www.curseforge.com/minecraft/mc-mods/anti-id-conflict/files/2308279) | ✅ | - |
+| AppleCore | [1.3.9](https://www.curseforge.com/minecraft/mc-mods/applecore/files/2391966) | ✅ | - |
+| Applied Energistics 2 | [rv3-beta-6](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2/files/2296430) | ✅ | - |
+| Archimedes' Ships Plus | [1.7.10-1.8.1](https://www.curseforge.com/minecraft/mc-mods/davincis-vessels/files/2282145) | ✅ | - |
+| ArchitectureCraft | [1.7.2](https://www.curseforge.com/minecraft/mc-mods/architecturecraft/files/2352554) | ⚠️ | Added |
 | Ars Magica 2 | [1.4.0.009] |  | - |
 | Ars Magica 2 Plant Fix | [1.0] |  | - |
 | Artifacts | [1.1.1] |  | - |
