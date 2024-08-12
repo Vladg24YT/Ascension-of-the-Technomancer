@@ -5,7 +5,7 @@
 This forked repo attempts to compile a list of mods used in pack version 7.0.1 using the latest mod versions by December 20th, 2019.
 
 ⚠️ means that the mod version was not tested.<br>
-✅ means that the mod version seems to work as intended.  
+✅ means that the mod version should work as intended.  
 
 <details>
 <summary>Pack version 7.0.1 modlist</summary>
@@ -31,73 +31,75 @@ Some aesthetic mods have been removed in 6.0.1, however the exact mods were not 
 | Applied Energistics 2 | [rv3-beta-6](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2/files/2296430) | ✅ | - |
 | Archimedes' Ships Plus | [1.7.10-1.8.1](https://www.curseforge.com/minecraft/mc-mods/davincis-vessels/files/2282145) | ✅ | - |
 | ArchitectureCraft | [1.7.2](https://www.curseforge.com/minecraft/mc-mods/architecturecraft/files/2352554) | ⚠️ | Added |
-| Ars Magica 2 | [1.4.0.009] |  | - |
-| Ars Magica 2 Plant Fix | [1.0] |  | - |
+| Ars Magica 2 | [1.4.0.009](https://www.curseforge.com/minecraft/mc-mods/ars-magica-2/files/2280862) | ✅ | - |
+| Ars Magica 2 Plant Fix | [1.0](https://www.curseforge.com/minecraft/mc-mods/ars-magica-2-plant-fix/files/2232356) | ✅ | - |
 | Artifacts | [1.1.1] |  | - |
 | asielib | [1.7.10-0.4.2] |  | - |
 | Astikor |  | ⚠️ | Added |
-| AuraCascade |  |  | - |
-| Automagy | [1.7.10-0.28.2] |  | - |
-| Avaritia | [1.11] |  | - |
-| Avaritia Additions | [1.4] |  | - |
+| AuraCascade | [557](https://www.curseforge.com/minecraft/mc-mods/aura-cascade/files/2261766) | ✅ | - |
+| Automagy | [1.7.10-0.28.2](https://www.curseforge.com/minecraft/mc-mods/automagy/files/2285272) | ✅ | - |
+| Avaritia | [1.11](https://www.curseforge.com/minecraft/mc-mods/avaritia/files/2285861) | ✅ | - |
+| Avaritia Additions | [1.4](https://www.curseforge.com/minecraft/mc-mods/avaritiaddons/files/2460516) | ✅ | - |
 | Backlytra |  | ⚠️ | Added |
 | Barkifier |  | ⚠️ | Added |
 | Baublelicious | `<none>` | ⚠️ | Removed |
 | Back in Slime |  | ⚠️ | Added |
-| BD Lib | [1.9.4.109] |  | - |
-| BetterFPS | [1.2.0] |  | - |
+| BD Lib | [1.9.4.109](https://www.curseforge.com/minecraft/mc-mods/bdlib/files/2269259) | ✅ | - |
+| BetterFPS | 1.2.0? [1.0.1](https://www.curseforge.com/minecraft/mc-mods/betterfps/files/2244002) | ⚠️ | - |
 | Better Foliage |  | ⚠️ | Added |
 | Better Loading Screen |  | ⚠️ | Added |
 | Better Questing |  | ⚠️ | Added |
-| BiblioCraft | [1.11.7] |  | - |
+| BiblioCraft | [1.11.7](https://www.curseforge.com/minecraft/mc-mods/bibliocraft/files/2423369) | ✅ | - |
 | BigDoors |  | ⚠️ | Added |
-| Binnie Core | [2.0.22.7] |  | - |
-| Biomes O' Plenty | [2.1.0] |  | - |
-| Blood Magic | [1.7.10-1.3.3-17] |  | - |
+| Binnie's Mods | [2.0.22.7](https://www.curseforge.com/minecraft/mc-mods/binnies-mods/files/2467142) | ✅ | - |
+| Biomes O' Plenty | [2.1.0.2027](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty/files/2308122) | ✅ | - |
+| Blood Magic | [1.7.10-1.3.3-17](https://www.curseforge.com/minecraft/mc-mods/blood-magic/files/2264826) | ✅ | - |
 | Blur | `<none>` | ⚠️ | Added, Removed |
-| Botania | [r1.8-249] |  | - |
-| BuildCraft | [7.1.22] |  | - |
-| BuildCraft Compat | [7.1.5] |  | - |
+| Botania | [r1.8-249](https://www.curseforge.com/minecraft/mc-mods/botania/files/2283837) | ✅ | - |
+| bspkrsCore | [6.16](https://www.curseforge.com/minecraft/mc-mods/bspkrscore/files/2227503) | ✅ | - |
+| BuildCraft | [7.1.22](https://www.curseforge.com/minecraft/mc-mods/buildcraft/files/2457485) | ✅ | - |
+| BuildCraft Compat | [7.1.5](https://www.curseforge.com/minecraft/mc-mods/buildcraft-compat/files/2297230) | ✅ | - |
 | Builders Guides |  | ⚠️ | Added |
-| Carpenter's Blocks |  | ⚠️ | Updated |
-| Catwalks Mod | [2.0.4] |  | - |
-| Chance Cubes | [1.7.10-2.4.1.0] |  | - |
-| Chisel | [2.9.5.11] |  | - |
-| Chisel Facades | [1.7.10-2.12] |  | - |
-| Chisel Tones | [1.7.10-1.0-3] |  | - |
-| ChocoCraft |  | ⚠️ | Removed, Added (updated?) |
+| Carpenter's Blocks | [3.3.8.2](https://www.curseforge.com/minecraft/mc-mods/carpenters-blocks/files/2719376) | ⚠️ | Updated |
+| Catwalks Mod | [2.0.4](https://www.curseforge.com/minecraft/mc-mods/catwalks-2/files/2296725) | ✅ | - |
+| Chance Cubes | [1.7.10-2.4.1.182](https://www.curseforge.com/minecraft/mc-mods/chance-cubes/files/2419789) | ✅ | - |
+| Chisel | [2.9.5.11](https://www.curseforge.com/minecraft/mc-mods/chisel/files/2287442) | ✅ | - |
+| ChiselTones | [1.7.10-1.0-3](https://www.curseforge.com/minecraft/mc-mods/chiseltones/files/2254543) | ✅ | - |
+| Chisel Facades | [1.7.10-2.12](https://www.curseforge.com/minecraft/mc-mods/chisel-facades/files/2255081) | ✅ | - |
+| ChocoCraft | [4.1.5](https://www.curseforge.com/minecraft/mc-mods/chococraft/files/2224416) | ✅ | - |
 | ChocoCraftPlus | `<none>` | ⚠️ | Added, Removed |
 | Chocolate Quest |  | ⚠️ | Added |
-| ChromatiCraft | | ⚠️ | Updated |
+| ChromatiCraft | [v33a](https://www.curseforge.com/minecraft/mc-mods/chromaticraft/files/4721192) | ⚠️ | Updated |
 | ChunkGen | `<none>` | ⚠️ | Removed |
 | Chunk Animator |  | ⚠️ | Added |
 | Chunk Pregenerator |  | ⚠️ | Added |
 | Climate Control |  | ⚠️ | Added |
 | Clockwork Phase |  | ⚠️ | Added |
-| CodeChickenCore | [1.7.10-1.0.7.47] |  | - |
-| CoFH Core | [3.1.4] |  | - |
-| CoFH Lib | [1.2.1-185] |  | - |
-| ColorUtility | [1.7.10-1.0.3] |  | - |
+| CodeChickenCore | [1.7.10-1.0.7.47](https://www.curseforge.com/minecraft/mc-mods/codechickencore/files/2262089) | ✅ | - |
+| CoFH Core | [3.1.4-329](https://www.curseforge.com/minecraft/mc-mods/cofh-core/files/2388750) | ✅ | - |
+| CoFH Lib | [1.2.1-185](https://www.curseforge.com/minecraft/mc-mods/cofh-lib/files/2388747) | ✅ | - |
+| ColorUtility | [1.7.10-1.0.3](https://www.curseforge.com/minecraft/mc-mods/colorutility/files/2388282) | ✅ | - |
 | Compact Machines |  | ⚠️ | Added |
-| Concrete Mod | 1.0 -> `<none>` | ⚠️ | Removed |
-| Cooking for Blockheads | [1.0.140] |  | - |
-| Crafting Tweaks | [1.0.88] |  | - |
-| CrystalWing | [1.7.10.r02] |  | - |
-| CustomNPCs | [1.7.10] |  | - |
-| CustomThings | [MC1.7.10-0.0.3-55] |  | - |
-| Custom Main Menu | [1.9.2] |  | - |
-| Cutting Edge | [0.1.0-4] |  | - |
-| DeathCounter | [4.0.0] |  | - |
-| Death Quotes | [1.2.0] |  | - |
-| Decocraft | [2.4.2_1.7.10] |  | - |
-| DeepResonance | [1.1.4] |  | - |
-| Default Keyconfig | [1.0.28] |  | - |
-| Default World Generator | [1.7.10-0.1-b13] |  | - |
+| Concrete Mod | `<none>` | ⚠️ | Removed |
+| Cooking for Blockheads | [1.0.140](https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads/files/2299135) | ✅ | - |
+| CraftTweaker | [3.1.0](https://www.curseforge.com/minecraft/mc-mods/crafttweaker/files/2838720) | ⚠️ | Updated |
+| Crafting Tweaks | [1.0.88](https://www.curseforge.com/minecraft/mc-mods/crafting-tweaks/files/2457094) | ✅ | - |
+| CrystalWing | [1.7.10.r02](https://www.curseforge.com/minecraft/mc-mods/crystalwing/files/2218944) | ✅ | - |
+| CustomThings | [MC1.7.10-0.0.3-55](https://www.curseforge.com/minecraft/mc-mods/customthings/files/2330592) | ✅ | - |
+| Custom Main Menu | [1.9.2](https://www.curseforge.com/minecraft/mc-mods/custom-main-menu/files/2264779) | ✅ | - |
+| Custom NPCs | [1.7.10d(29oct17)](https://www.curseforge.com/minecraft/mc-mods/custom-npcs/files/2495406) | ✅ | - |
+| Cutting Edge | [0.1.0-4](https://www.curseforge.com/minecraft/mc-mods/cutting-edge/files/2266596) | ✅ | - |
+| Death Counter | [4.0.0](https://www.curseforge.com/minecraft/mc-mods/death-counter/files/2232104) | ✅ | - |
+| Death Quotes | [1.2.0](https://www.curseforge.com/minecraft/mc-mods/deathquotes-death-quotes/files/2405032) | ✅ | - |
+| Decocraft | [2.4.2_1.7.10](https://www.curseforge.com/minecraft/mc-mods/decocraft/files/2414535) | ✅ | - |
+| Deep Resonance | [1.1.4](https://www.curseforge.com/minecraft/mc-mods/deep-resonance/files/2274804) | ✅ | - |
+| Default Options | [1.0.28](https://www.curseforge.com/minecraft/mc-mods/default-options/files/2277197) | ✅ | - |
+| Default World Generator | [1.7.10-0.1-b13](https://www.curseforge.com/minecraft/mc-mods/default-world-generator/files/2225179) | ✅ | - |
 | Dense Ores |  | ⚠️ | Added |
 | Dimension Guard | `<none>` | ⚠️ | Removed |
 | Ding | `<none` | ⚠️ | Removed |
 | Doomlike Dungeons | [1.8.13] |  | - |
-| DragonAPI |  | ⚠️ | Updated |
+| DragonAPI | [v33b](https://www.curseforge.com/minecraft/mc-mods/dragonapi/files/4722480) | ⚠️ | Updated |
 | Dungeon Pack | [1.7.10-1.0] |  | - |
 | Dynamic Dynamos |  | ⚠️ | Added |
 | Dynamic Surroundings |  | ⚠️ | Added |
@@ -190,7 +192,6 @@ Some aesthetic mods have been removed in 6.0.1, however the exact mods were not 
 | Minecraft Comes Alive | [1.7.10-5.2.2] |  | - |
 | MineFactory Reloaded |  | ⚠️ | Updated |
 | MineMenu | [1.7.10-1.2.0.B44] |  | - |
-| MineTweaker 3 |  | ⚠️ | Updated |
 | Mine & Blade Battlegear 2 | [1.0.8.2] |  | - |
 | MoarSigns | [1.2.4] |  | - |
 | ModPack Basic Tools | [1.0.0] |  | - |
