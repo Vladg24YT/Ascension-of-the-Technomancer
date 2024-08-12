@@ -10,46 +10,176 @@ This forked repo attempts to compile a list of mods used in pack version 7.0.1.
 <details>
 <summary>Pack version 7.0.1 modlist</summary>
 
-| Mod | Version & download | Test results |
-| :--- | :--- | :---: |
-| Advanced Hook Launchers | [2.1.1.0 build 0061](https://www.curseforge.com/minecraft/mc-mods/advanced-hook-launchers/files/2432339) | ✅ |
-| Advanced Rocketry | [1.2.2](https://www.curseforge.com/minecraft/mc-mods/advanced-rocketry/files/2433239) | ✅ |
-| Advent of Ascension | [2.5](https://www.curseforge.com/minecraft/mc-mods/advent-of-ascension-nevermine/files/2973553) | ✅ |
-| Advent of Ascension | [Tslat 1.0, a more stable version of 2.5](https://www.curseforge.com/minecraft/mc-mods/advent-of-ascension-nevermine/files/2973554) | ⚠️ |
-| AE2 Stuff | [0.5.1.9 for AE rv3](https://www.curseforge.com/minecraft/mc-mods/ae2-stuff/files/2270295) | ✅ |
-| Aether Aspects | [1.2](https://www.curseforge.com/minecraft/mc-mods/aether-aspects/files/2230497) | ✅ |
-| Aether II | [1.6](https://www.curseforge.com/minecraft/mc-mods/aether-ii/files/2273367) | ✅ |
-| AgriCraft | [1.5.0](https://www.curseforge.com/minecraft/mc-mods/agricraft/files/2284130) | ✅ |
-| Carpenter's Blocks |  | ⚠️ |
-| ChromatiCraft |  | ⚠️ |
-| Chunk Pregenerator |  | ⚠️ |
-| CraftTweaker |  | ⚠️ |
-| DragonAPI |  | ⚠️ |
-| ElectriCraft |  | ⚠️ |
-| Gendustry |  | ⚠️ |
-| GeoStrata |  | ⚠️ |
-| GregTech |  | ⚠️ |
-| GTTweaker |  | ⚠️ |
-| Itit |  | ⚠️ |
-| libVulpes |  | ⚠️ |
-| MeteorCraft |  | ⚠️ |
-| MineFactory Reloaded |  | ⚠️ |
-| Modular Powersuits |  | ⚠️ |
-| Natura |  | ⚠️ |
-| Nether Ores |  | ⚠️ |
-| NEI Addons |  | ⚠️ |
-| NotEnoughIDs |  | ⚠️ |
-| OpenComputers |  | ⚠️ |
-| OpenModsLib |  | ⚠️ |
-| ReactorCraft |  | ⚠️ |
-| RotaryCraft |  | ⚠️ |
-| SmoothFont |  | ⚠️ |
-| Thaumic Energistics |  | ⚠️ |
-| Thaumic NEI |  | ⚠️ |
-| Tinkers Construct |  | ⚠️ |
-| VillageNames |  | ⚠️ |
-| VoidMonster |  | ⚠️ |
-| Xaero's Minimap |  | ⚠️ |
+Some aesthetic mods have been removed in 6.0.1, however the exact mods were not specified in the changelogs.
+
+| Mod | Version & download | Test results | Changed |
+| :--- | :--- | :---: | :--- |
+| Advanced Hook Launchers | [1.7.10-2.1.1.0 build 0061](https://www.curseforge.com/minecraft/mc-mods/advanced-hook-launchers/files/2432339) | ✅ | - |
+| Advanced Rocketry | [1.7.10-1.2.2](https://www.curseforge.com/minecraft/mc-mods/advanced-rocketry/files/2433239) | ✅ | - |
+| Adventurebackpack |  | ⚠️ | Added |
+| Advent of Ascension | [Tslat 1.0](https://www.curseforge.com/minecraft/mc-mods/advent-of-ascension-nevermine/files/2973554)? | ⚠️ | Updated |
+| AE2 Stuff | [0.5.1.9 for AE rv3](https://www.curseforge.com/minecraft/mc-mods/ae2-stuff/files/2270295) | ✅ | - |
+| Aether Aspects | [1.7.10-1.2](https://www.curseforge.com/minecraft/mc-mods/aether-aspects/files/2230497) | ✅ | - |
+| Aether II | [1.7.10-1.6](https://www.curseforge.com/minecraft/mc-mods/aether-ii/files/2273367) | ✅ | - |
+| AgriCraft | [1.5.0](https://www.curseforge.com/minecraft/mc-mods/agricraft/files/2284130) | ✅ | - |
+| AnimationAPI | [1.7.10-1.2.4] |  | - |
+| Another One Bites The Dust | [2.9.2] |  | - |
+| Another One Bites The Dust: Berry Bushes | [1.0.6]  |  | - |
+| Another One Bites The Dust: Singulaties | [1.0.4] |  | - |
+| Anti Id Conflict | [1.3.5] |  | - |
+| AppleCore | [1.3.9] |  | - |
+| Applied Energistics 2 | [rv3-beta-6] |  | - |
+| Archimedes' Ships Plus | [1.7.10-1.8.1] |  | - |
+| ArchitectureCraft |  | ⚠️ | Added |
+| Ars Magica 2 | [1.4.0.009] |  | - |
+| Ars Magica 2 Plant Fix | [1.0] |  | - |
+| Artifacts | [1.1.1] |  | - |
+| asielib | [1.7.10-0.4.2] |  | - |
+| Astikor |  | ⚠️ | Added |
+| AuraCascade |  |  | - |
+| Automagy | [1.7.10-0.28.2] |  | - |
+| Avaritia | [1.11] |  | - |
+| Avaritia Additions | [1.4] |  | - |
+| Backlytra |  | ⚠️ | Added |
+| Barkifier |  | ⚠️ | Added |
+| Baublelicious | `<none>` | ⚠️ | Removed |
+| Back in Slime |  | ⚠️ | Added |
+| BD Lib | [1.9.4.109] |  | - |
+| BetterFPS | [1.2.0] |  | - |
+| Better Foliage |  | ⚠️ | Added |
+| Better Loading Screen |  | ⚠️ | Added |
+| Better Questing |  | ⚠️ | Added |
+| BiblioCraft | [1.11.7] |  | - |
+| BigDoors |  | ⚠️ | Added |
+| Binnie Core | [2.0.22.7] |  | - |
+| Biomes O' Plenty | [2.1.0] |  | - |
+| Blood Magic | [1.7.10-1.3.3-17] |  | - |
+| Blur | `<none>` | ⚠️ | Added, Removed |
+| Botania | [r1.8-249] |  | - |
+| BuildCraft | [7.1.22] |  | - |
+| BuildCraft Compat | [7.1.5] |  | - |
+| Builders Guides |  | ⚠️ | Added |
+| Carpenter's Blocks |  | ⚠️ | Updated |
+| Catwalks Mod | [2.0.4] |  | - |
+| Chance Cubes | [1.7.10-2.4.1.0] |  | - |
+| Chisel | [2.9.5.11] |  | - |
+| Chisel Facades | [1.7.10-2.12] |  | - |
+| Chisel Tones | [1.7.10-1.0-3] |  | - |
+| Chocolate Quest |  | ⚠️ | Added |
+| ChromatiCraft | | ⚠️ | Updated |
+| ChunkGen | `<none>` | ⚠️ | Removed |
+| Chunk Animator |  | ⚠️ | Added |
+| Chunk Pregenerator |  | ⚠️ | Added |
+| ChocoCraft |  | ⚠️ | Removed, Added (updated?) |
+| ChocoCraftPlus | `<none>` | ⚠️ | Added, Removed |
+| Climate Control |  | ⚠️ | Added |
+| Clockwork Phase |  | ⚠️ | Added |
+| CodeChickenCore | [1.7.10-1.0.7.47] |  | - |
+| CoFH Core | [3.1.4] |  | - |
+| CoFH Lib | [1.2.1-185] |  | - |
+| ColorUtility | [1.7.10-1.0.3] |  | - |
+| Compact Machines |  | ⚠️ | Added |
+| Concrete Mod | 1.0 -> `<none>` | ⚠️ | Removed |
+| Cooking for Blockheads | [1.0.140] |  | - |
+| Crafting Tweaks | [1.0.88] |  | - |
+| CraftTweaker |  | ⚠️ | Updated |
+| CrystalWing | [1.7.10.r02] |  | - |
+| Custom Main Menu | [1.9.2] |  | - |
+| CustomNPCs | [1.7.10] |  | - |
+| CustomThings | [MC1.7.10-0.0.3-55] |  | - |
+| Cutting Edge | [0.1.0-4] |  | - |
+| Death Quotes | [1.2.0] |  | - |
+| DeathCounter | [4.0.0] |  | - |
+| Decocraft | [2.4.2_1.7.10] |  | - |
+| DeepResonance | [1.1.4] |  | - |
+| Default Keyconfig | [1.0.28] |  | - |
+| Default World Generator | [1.7.10-0.1-b13] |  | - |
+| Dense Ores |  | ⚠️ | Added |
+| Dimension Guard | `<none>` | ⚠️ | Removed |
+| Ding | `<none` | ⚠️ | Removed |
+| Doomlike Dungeons | [1.8.13] |  | - |
+| DragonAPI |  | ⚠️ | Updated |
+| Dungeon Pack | [1.7.10-1.0] |  | - |
+| Dynamic Dynamos |  | ⚠️ | Added |
+| Dynamic Surroundings |  | ⚠️ | Added |
+| Dynamic Sword Skills | [1.7.1] |  | - |
+| Dynamic Tick |  | ⚠️ | Added |
+| EiraMoticons | `<none>` | ⚠️ | Removed |
+| ElecCore | [1.4.294] |  | - |
+| ElectriCraft |  | ⚠️ | Added |
+| Emotes | [1.0.1] |  | - |
+| EternalSingularity | | ⚠️ | Updated |
+| Evilcraft |  | ⚠️ | Added |
+| Ewy's Workshop |  | ⚠️ | Added |
+| FairyLights |  | ⚠️ | Added |
+| Fancy Block Particles |  | ⚠️ | Added |
+| gearswap |  | ⚠️ | Added |
+| Gendustry |  | ⚠️ | Updated |
+| Generator Mods | `<none>` | ⚠️ | Added, Removed |
+| GeoStrata |  | ⚠️ | Added |
+| GraveStones |  | ⚠️ | Added |
+| GregTech | [5.09.32.pre5] | ⚠️ | Updated |
+| GTTweaker |  | ⚠️ | Updated |
+| Hardore Questing Mode | `<none>` | ⚠️ | Removed |
+| ItemBlacklist |  | ⚠️ | Added |
+| It's the little things |  | ⚠️ | Updated |
+| JourneyMap | `<none>` | ⚠️ | Removed |
+| kleeslabs |  | ⚠️ | Added |
+| libVulpes |  | ⚠️ | Updated |
+| Llamas |  | ⚠️ | Added |
+| Magic Cookies | `<none>` | ⚠️ | Added, Removed |
+| Mekanism |  | ⚠️ | Updated |
+| MeteorCraft |  | ⚠️ | Added |
+| MineFactory Reloaded |  | ⚠️ | Updated |
+| Modular Powersuits |  | ⚠️ | Updated |
+| Mowzie's Mobs |  | ⚠️ | Added |
+| Mo' Bends | `<none>` | ⚠️ | Added, Removed |
+| MPUtils | `<none>` | ⚠️ | Removed |
+| Music for Hardcore Ender Expansion |  | ⚠️ | Added |
+| Mutant Creatures |  | ⚠️ | Added |
+| Natura |  | ⚠️ | Updated |
+| Nether Ores |  | ⚠️ | Updated |
+| Nether Portal Fix |  | ⚠️ | Added |
+| Networks Manager |  | ⚠️ | Added |
+| NEI Addons |  | ⚠️ | Updated |
+| NotEnoughCats |  | ⚠️ | Added |
+| NotEnoughIDs |  | ⚠️ | - |
+| NotEnoughThaumcraftTabs |  | ⚠️ | Added |
+| NOVA |  | ⚠️ | Added |
+| Not Enough Wands |  | ⚠️ | Added |
+| ObsAoA |  | ⚠️ | Added |
+| OpenComputers |  | ⚠️ | Updated |
+| OpenModsLib |  | ⚠️ | Updated |
+| OpenSecurity |  | ⚠️ | Updated |
+| Open Sensors |  | ⚠️ | Added |
+| Palimpsest |  | ⚠️ | Added |
+| Pam's Weee! Flowers |  | ⚠️ | Added |
+| Pantography |  | ⚠️ | Added |
+| PortalGun |  | ⚠️ | Added |
+| Railcraft Cosmetics |  | ⚠️ | Added |
+| ReactorCraft |  | ⚠️ | Updated |
+| Realistic Terrain Generation |  | ⚠️ | Added |
+| ReBind |  | ⚠️ | Added |
+| RotaryCraft |  | ⚠️ | Updated |
+| Runic Dungeons |  | ⚠️ | Added |
+| SetNow |  | ⚠️ | Added |
+| SmoothFont | [1.7.10-1.15.3] | ⚠️ | Updated |
+| Steve's Workshop | `<none>` | ⚠️ | Removed |
+| Storage Drawers NEI Fix |  | ⚠️ | Added |
+| Thaumaturgical Knowledge |  | ⚠️ | Added |
+| Thaumic Energistics |  | ⚠️ | Updated |
+| Thaumic NEI |  | ⚠️ | Updated |
+| Tinkers Construct |  | ⚠️ | Updated |
+| TUBackport |  | ⚠️ | Added |
+| Tumbleweed |  | ⚠️ | Added |
+| VillageNames |  | ⚠️ | Added |
+| VoidMonster |  | ⚠️ | Added |
+| Wireless Crafting Terminal |  | ⚠️ | Added |
+| WTF Expedition |  | ⚠️ | Added |
+| Xaero's Minimap |  | ⚠️ | Updated |
+| Xaero's Minimap Fair-Play Edition |  | ⚠️ | Updated |
+| Xaero's Waypoints |  | ⚠️ | Added |
+| Xeno's Reliquary |  | ⚠️ | Added |
 
 </details>
 
