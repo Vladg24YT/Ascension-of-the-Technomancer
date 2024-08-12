@@ -65,13 +65,13 @@ Some aesthetic mods have been removed in 6.0.1, however the exact mods were not 
 | Chisel | [2.9.5.11] |  | - |
 | Chisel Facades | [1.7.10-2.12] |  | - |
 | Chisel Tones | [1.7.10-1.0-3] |  | - |
+| ChocoCraft |  | ⚠️ | Removed, Added (updated?) |
+| ChocoCraftPlus | `<none>` | ⚠️ | Added, Removed |
 | Chocolate Quest |  | ⚠️ | Added |
 | ChromatiCraft | | ⚠️ | Updated |
 | ChunkGen | `<none>` | ⚠️ | Removed |
 | Chunk Animator |  | ⚠️ | Added |
 | Chunk Pregenerator |  | ⚠️ | Added |
-| ChocoCraft |  | ⚠️ | Removed, Added (updated?) |
-| ChocoCraftPlus | `<none>` | ⚠️ | Added, Removed |
 | Climate Control |  | ⚠️ | Added |
 | Clockwork Phase |  | ⚠️ | Added |
 | CodeChickenCore | [1.7.10-1.0.7.47] |  | - |
@@ -82,14 +82,13 @@ Some aesthetic mods have been removed in 6.0.1, however the exact mods were not 
 | Concrete Mod | 1.0 -> `<none>` | ⚠️ | Removed |
 | Cooking for Blockheads | [1.0.140] |  | - |
 | Crafting Tweaks | [1.0.88] |  | - |
-| CraftTweaker |  | ⚠️ | Updated |
 | CrystalWing | [1.7.10.r02] |  | - |
-| Custom Main Menu | [1.9.2] |  | - |
 | CustomNPCs | [1.7.10] |  | - |
 | CustomThings | [MC1.7.10-0.0.3-55] |  | - |
+| Custom Main Menu | [1.9.2] |  | - |
 | Cutting Edge | [0.1.0-4] |  | - |
-| Death Quotes | [1.2.0] |  | - |
 | DeathCounter | [4.0.0] |  | - |
+| Death Quotes | [1.2.0] |  | - |
 | Decocraft | [2.4.2_1.7.10] |  | - |
 | DeepResonance | [1.1.4] |  | - |
 | Default Keyconfig | [1.0.28] |  | - |
@@ -108,12 +107,12 @@ Some aesthetic mods have been removed in 6.0.1, however the exact mods were not 
 | ElecCore | [1.4.294] |  | - |
 | ElectriCraft |  | ⚠️ | Added |
 | Emotes | [1.0.1] |  | - |
-| Ender IO | [1.710-2.3.0.429_beta] |  | - |
-| Ender IO Addons | [0.10.13] |  | - |
-| Ender Zoo | [1.7.10-1.0.15.32] |  | - |
 | EnderCore | [1.7.10-0.2.0.39_beta] |  | - |
 | EnderStorage | [1.4.7.37] |  | - |
 | EnderTech | [1.7.10-0.3.2.393] |  | - |
+| Ender IO | [1.710-2.3.0.429_beta] |  | - |
+| Ender IO Addons | [0.10.13] |  | - |
+| Ender Zoo | [1.7.10-1.0.15.32] |  | - |
 | Epic Siege Mod | [10.0.148] |  | - |
 | Eternal Singularity |  | ⚠️ | Updated |
 | Et Futurum | [1.5.5] |  | - |
@@ -124,7 +123,6 @@ Some aesthetic mods have been removed in 6.0.1, however the exact mods were not 
 | Extra Utilities | [1.2.12] |  | - |
 | FairyLights |  | ⚠️ | Added |
 | Fancy Block Particles |  | ⚠️ | Added |
-| The Farlanders | [v1.2b] |  | - |
 | FastCraft | [1.23] |  | - |
 | Flat Signs | [2.1.0.19] |  | - |
 | Flaxbeard's Steam Power | [0.29.2] |  | - |
@@ -150,66 +148,191 @@ Some aesthetic mods have been removed in 6.0.1, however the exact mods were not 
 | GTTweaker |  | ⚠️ | Updated |
 | guardianchest | [1.6] |  | - |
 | Guide API | [1.7.10-1.0.1-29] |  | - |
-| Hardore Questing Mode | `<none>` | ⚠️ | Removed |
+| Hardcore Darkness | [1.7] |  | - |
+| Hardcore Ender Expansion | [1.8.6] |  | - |
+| Hardcore Questing Mode | `<none>` | ⚠️ | Removed |
+| Hardcore Wither | [1.1.3] |  | - |
+| Headcrumbs | [1.7.4] |  | - |
+| Hunger Overhaul | [1.0.0.jenkins104] |  | - |
+| iChunUtil | [4.2.3] |  | - |
+| Immersive Engineering | [0.7.7] |  | - |
+| Immersive Integration | [0.6.8] |  | - |
+| IndustrialCraft 2 | [2.2.827-experimental] |  | - |
+| INpureCore | [1.0.0B9-62] |  | - |
+| Inventory Tweaks | [1.59-dev-152-cf6e63] |  | - |
+| Iron Chest | [6.0.62.742] |  | - |
 | ItemBlacklist |  | ⚠️ | Added |
 | It's the little things |  | ⚠️ | Updated |
+| IvToolkit | [1.2.1] |  | - |
+| JABBA | [1.2.2_1.7.10] |  | - |
 | JourneyMap | `<none>` | ⚠️ | Removed |
+| Just Another Spawner | [0.17.8] |  | - |
+| Just Another Spawner Compatibility Addon | [1.2.0] |  | - |
+| Just What I Needed | [0.10.2] |  | - |
 | kleeslabs |  | ⚠️ | Added |
 | libVulpes |  | ⚠️ | Updated |
 | Llamas |  | ⚠️ | Added |
+| LLibrary | [1.5.1-1.7.10] |  | - |
+| Logistics Pipes | [0.9.3.132] |  | - |
+| Loot++ | [0.24_for_1.7] |  | - |
+| Lycanites Mobs | [1.13.X.X] |  | - |
+| MachineMuse's Modular Powersuits |  | ⚠️ | Updated |
+| Magic Bees | [1.7.10-2.4.4] |  | - |
 | Magic Cookies | `<none>` | ⚠️ | Added, Removed |
+| Magmaox | [1.0] |  | - |
+| Magneticraft | [0.6.0-final] |  | - |
+| MalisisCore | [1.7.10-0.14.3] |  | - |
+| Malisis' Doors | [1.7.10-1.13.2] |  | - |
+| Mantle | [0.3.2b] |  | - |
+| McJtyLib | [1.8.1-SNAPSHOT] |  | - |
 | Mekanism |  | ⚠️ | Updated |
 | MeteorCraft |  | ⚠️ | Added |
+| Minecraft Comes Alive | [1.7.10-5.2.2] |  | - |
 | MineFactory Reloaded |  | ⚠️ | Updated |
-| Modular Powersuits |  | ⚠️ | Updated |
+| MineMenu | [1.7.10-1.2.0.B44] |  | - |
+| MineTweaker 3 |  | ⚠️ | Updated |
+| Mine & Blade Battlegear 2 | [1.0.8.2] |  | - |
+| MoarSigns | [1.2.4] |  | - |
+| ModPack Basic Tools | [1.0.0] |  | - |
+| Mod Tweaker 2 | [0.9.6] |  | - |
+| More Chisels | [1.7.10-1.0-28] |  | - |
+| Morpheus | [1.7.10-1.6.21] |  | - |
+| Mouse Tweaks | [2.4.4] |  | - |
+| Moving World | [1.7.10-1.8.1] |  | - |
 | Mowzie's Mobs |  | ⚠️ | Added |
 | Mo' Bends | `<none>` | ⚠️ | Added, Removed |
 | MPUtils | `<none>` | ⚠️ | Removed |
 | Music for Hardcore Ender Expansion |  | ⚠️ | Added |
 | Mutant Creatures |  | ⚠️ | Added |
 | Natura |  | ⚠️ | Updated |
+| Nature's Compass | [1.7.10-1.3.1] |  | - |
+| Neat | [1.0-1] |  | - |
 | Nether Ores |  | ⚠️ | Updated |
 | Nether Portal Fix |  | ⚠️ | Added |
 | Networks Manager |  | ⚠️ | Added |
 | NEI Addons |  | ⚠️ | Updated |
+| NEI Integration | [1.1.2] |  | - |
 | NotEnoughCats |  | ⚠️ | Added |
 | NotEnoughIDs |  | ⚠️ | - |
+| NotEnoughItems | [1.7.10-1.0.5.120-universal] |  | - |
+| NotEnoughKeys | [1.7.10-3.0.0b45] |  | - |
 | NotEnoughThaumcraftTabs |  | ⚠️ | Added |
-| NOVA |  | ⚠️ | Added |
+| Not Enough Resources |  |  | - |
 | Not Enough Wands |  | ⚠️ | Added |
+| NOVA |  | ⚠️ | Added |
+| Nuclear Control 2 |  |  | - |
+| Numina | [0.4.1.105] |  | - |
+| NVLSimpleBlocks | [1.7.10.1558.1.1] |  | - |
 | ObsAoA |  | ⚠️ | Added |
+| ObsCore | [1.4.0.4] |  | - |
+| ObsTrophies | [1.6.0] |  | - |
+| OpenBlocks | [1.6] |  | - |
 | OpenComputers |  | ⚠️ | Updated |
 | OpenModsLib |  | ⚠️ | Updated |
+| OpenPeripheralAddons | [0.6] |  | - |
+| OpenPeripheralCore | [1.4] |  | - |
+| OpenPeripheralIntegration | [0.6] |  | - |
 | OpenSecurity |  | ⚠️ | Updated |
+| Open Modular Turrets | [2.2.11-238] |  | - |
 | Open Sensors |  | ⚠️ | Added |
 | Palimpsest |  | ⚠️ | Added |
+| Pam's HarvestCraft | [1.7.10i] |  | - |
 | Pam's Weee! Flowers |  | ⚠️ | Added |
 | Pantography |  | ⚠️ | Added |
+| Pistronics | [0.6.4] |  | - |
+| PneumaticCraft | [1.12.7-150] |  | - |
 | PortalGun |  | ⚠️ | Added |
+| ProjectRed Compatibility | [4.7.0pre12.95] |  | - |
+| ProjectRed Core | [4.7.0pre12.95] |  | - |
+| ProjectRed Expansion | [4.7.0pre12.95] |  | - |
+| ProjectRed Exploration | [4.7.0pre12.95] |  | - |
+| ProjectRed Fabrication | [4.7.0pre12.95] |  | - |
+| ProjectRed Illumination | [4.7.0pre12.95] |  | - |
+| ProjectRed Transmission | [4.7.0pre12.95] |  | - |
+| RadixCore | [1.7.10-2.1.3] |  | - |
+| Railcraft | [9.12.2.1] |  | - |
 | Railcraft Cosmetics |  | ⚠️ | Added |
+| Random Things | [2.2.4] |  | - |
 | ReactorCraft |  | ⚠️ | Updated |
 | Realistic Terrain Generation |  | ⚠️ | Added |
 | ReBind |  | ⚠️ | Added |
+| Recurrent Complex | [0.9.7.1.1] |  | - |
+| Redstone Arsenal | [1.1.3] |  | - |
+| Resource Loader | [1.3] |  | - |
+| RFDrills | [1.7.3] |  | - |
+| RFTools | [4.23] |  | - |
+| Roguelike Dungeons | [1.5.0] |  | - |
 | RotaryCraft |  | ⚠️ | Updated |
+| Ruins Spawning System |  |  | - |
 | Runic Dungeons |  | ⚠️ | Added |
+| Sanguimancy | [1.7.10-1.1.9-35] |  | - |
 | SetNow |  | ⚠️ | Added |
+| Shatter | [4.0.0] |  | - |
+| SimpleAchievements | [MC1.7.10-1.1.0-21] |  | - |
+| Simply Jetpacks | [1.5.3] |  | - |
+| SmallBoats | [1.7.10-10.13.0-16.0] |  | - |
 | SmoothFont | [1.7.10-1.15.3] | ⚠️ | Updated |
+| Solar Expansion | [1.6a] |  | - |
+| Special Mobs | [1.7.10-3.2.2] |  | - |
+| Statues | [2.1.4] |  | - |
+| Steve's Carts 2 | [2.0.0.b18] |  | - |
 | Steve's Workshop | `<none>` | ⚠️ | Removed |
+| Storage Drawers | [1.7.10-1.10.9] |  | - |
+| Storage Drawers: Biomes O' Plenty Pack | [1.7.10-1.1.1] |  | - |
+| Storage Drawers: Forestry Pack | [1.7.10-1.1.2] |  | - |
+| Storage Drawers: Natura Pack | [1.7.10-1.1.1] |  | - |
 | Storage Drawers NEI Fix |  | ⚠️ | Added |
+| supercraftingframe | [1.7.10.3] |  | - |
+| Sync | [4.0.1] |  | - |
+| Tainted Magic | [r7.82] |  | - |
+| TC Inventory Scanning | [1.0.11] |  | - |
+| TC Node Tracker | [1.7.10-1.1.2] |  | - |
+| Technomancy | [0.12.5] |  | - |
 | Thaumaturgical Knowledge |  | ⚠️ | Added |
+| Thaumcraft | [1.7.10-4.2.3.5] |  | - |
+| Thaumcraft Mob Aspects | [1.7.2-2A] |  | - |
+| Thaumcraft NEI Plugin | [1.7.10-1.7a] |  | - |
 | Thaumic Energistics |  | ⚠️ | Updated |
+| Thaumic Exploration | [Pre 0.6.0b] |  | - |
+| Thaumic Horizons | [1.1.5] |  | - |
 | Thaumic NEI |  | ⚠️ | Updated |
-| Tinkers Construct |  | ⚠️ | Updated |
+| Thaumic Tinkerer | [2.5-1.7.10-164] |  | - |
+| Thermal Dynamics | [1.2.1] |  | - |
+| Thermal Expansion | [4.1.5] |  | - |
+| Thermal Foundation | [1.2.6] |  | - |
+| Thermal Singularities | [1.2] |  | - |
+| The Farlanders | [v1.2b] |  | - |
+| The SecretRooms | [1.7.10-4.7.1.406] |  | - |
+| The Spice of Life | [1.3.11] |  | - |
+| The Twilight Forest | [2.3.7] |  | - |
+| Tinkers' Construct |  | ⚠️ | Updated |
+| Tinkers' Mechworks | [0.2.15.106] |  | - |
+| Translocator | [1.1.2.16] |  | - |
+| Traveller's Gear | [1.16.6] |  | - |
 | TUBackport |  | ⚠️ | Added |
 | Tumbleweed |  | ⚠️ | Added |
+| Twilight Forest Portal Catalyst | [3.0] |  | - |
+| Universal Singularities | [8.0] |  | - |
+| Version Checker | [1.1.9] |  | - |
 | VillageNames |  | ⚠️ | Added |
 | VoidMonster |  | ⚠️ | Added |
+| WAILA | [1.5.10_1.7.10] |  | - |
+| WAILA Harvestability | [1.1.6] |  | - |
+| WAILA Plugins | [MC1.7.10-0.2.0-25] |  | - |
+| WanionLib | [1.7.10-1.8] |  | - |
+| Water Hooks | [1.2.1] |  | - |
+| WAWLA | [1.3.1] |  | - |
 | Wireless Crafting Terminal |  | ⚠️ | Added |
+| Witchery | [1.7.10-0.24.1] |  | - |
+| Witching Gadgets | [1.1.10] |  | - |
+| WR-CBE Core | [1.4.1.9] |  | - |
 | WTF Expedition |  | ⚠️ | Added |
 | Xaero's Minimap |  | ⚠️ | Updated |
 | Xaero's Minimap Fair-Play Edition |  | ⚠️ | Updated |
 | Xaero's Waypoints |  | ⚠️ | Added |
 | Xeno's Reliquary |  | ⚠️ | Added |
+| Ztones | [2.2] |  | - |
+| ZZZZZ Custom Configs | [2.4.1] |  | - |
 
 </details>
 
