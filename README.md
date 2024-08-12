@@ -108,18 +108,49 @@ Some aesthetic mods have been removed in 6.0.1, however the exact mods were not 
 | ElecCore | [1.4.294] |  | - |
 | ElectriCraft |  | ⚠️ | Added |
 | Emotes | [1.0.1] |  | - |
-| EternalSingularity | | ⚠️ | Updated |
+| Ender IO | [1.710-2.3.0.429_beta] |  | - |
+| Ender IO Addons | [0.10.13] |  | - |
+| Ender Zoo | [1.7.10-1.0.15.32] |  | - |
+| EnderCore | [1.7.10-0.2.0.39_beta] |  | - |
+| EnderStorage | [1.4.7.37] |  | - |
+| EnderTech | [1.7.10-0.3.2.393] |  | - |
+| Epic Siege Mod | [10.0.148] |  | - |
+| Eternal Singularity |  | ⚠️ | Updated |
+| Et Futurum | [1.5.5] |  | - |
+| Eureka | [3.0.2] |  | - |
 | Evilcraft |  | ⚠️ | Added |
 | Ewy's Workshop |  | ⚠️ | Added |
+| Extra Cells 2 | [2.3.14] |  | - |
+| Extra Utilities | [1.2.12] |  | - |
 | FairyLights |  | ⚠️ | Added |
 | Fancy Block Particles |  | ⚠️ | Added |
+| The Farlanders | [v1.2b] |  | - |
+| FastCraft | [1.23] |  | - |
+| Flat Signs | [2.1.0.19] |  | - |
+| Flaxbeard's Steam Power | [0.29.2] |  | - |
+| Forbidden Magic | [1.7.10-0.575] |  | - |
+| Forestry | [4.2.16.64] |  | - |
+| Forge Endertech | [1.7.10-1.9.2.0] |  | - |
+| Fossils and Archeology Revival | [7.3.1] |  | - |
+| FTBLib | [1.7.10-1.0.18.2] |  | - |
+| FTBUtilities | [1.7.10-1.0.18.2] |  | - |
+| Funky Locomotion | [beta-7] |  | - |
+| Gadomancy | [1.7.10-1.0.7.3] |  | - |
+| Garden Containers | [1.7.10-1.7.0] |  | - |
 | gearswap |  | ⚠️ | Added |
 | Gendustry |  | ⚠️ | Updated |
 | Generator Mods | `<none>` | ⚠️ | Added, Removed |
 | GeoStrata |  | ⚠️ | Added |
+| Gilded Games Utility | [1.7.10-1.1] |  | - |
 | GraveStones |  | ⚠️ | Added |
+| Gravitation Suite | [1.7.10-2.0.3] |  | - |
+| GregTania | [0.0.2] |  | - |
 | GregTech | [5.09.32.pre5] | ⚠️ | Updated |
+| GT Vein Locator | [v1.0.7] |  | - |
 | GTTweaker |  | ⚠️ | Updated |
+| guardianchest | [1.6] |  | - |
+| Guide API | [1.7.10-1.0.1-29] |  | - |
+<!-- Paused here -->
 | Hardore Questing Mode | `<none>` | ⚠️ | Removed |
 | ItemBlacklist |  | ⚠️ | Added |
 | It's the little things |  | ⚠️ | Updated |
