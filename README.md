@@ -158,31 +158,31 @@ Some aesthetic mods have been removed in 6.0.1, however the exact mods were not 
 | Hardcore Questing Mode | `<none>` | ⚠️ | Removed |
 | Hardcore Wither | [1.1.3](https://www.curseforge.com/minecraft/mc-mods/hardcore-wither/files/2282681) | ✅ | - |
 | Headcrumbs | [1.7.4](https://www.curseforge.com/minecraft/mc-mods/headcrumbs/files/2279949) | ✅ | - |
-| Hunger Overhaul | [1.0.0.jenkins104] |  | - |
-| iChunUtil | [4.2.3] |  | - |
-| Immersive Engineering | [0.7.7] |  | - |
-| Immersive Integration | [0.6.8] |  | - |
-| IndustrialCraft 2 | [2.2.827-experimental] |  | - |
-| INpureCore | [1.0.0B9-62] |  | - |
-| Inventory Tweaks | [1.59-dev-152-cf6e63] |  | - |
-| Iron Chest | [6.0.62.742] |  | - |
+| Hunger Overhaul | [1.0.0.jenkins104](https://www.curseforge.com/minecraft/mc-mods/hunger-overhaul/files/2332505) | ✅ | - |
+| iChunUtil | [4.2.3](https://www.curseforge.com/minecraft/mc-mods/ichunutil/files/2338148) | ✅ | - |
+| Immersive Engineering | [0.7.7](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering/files/2299019) | ✅ | - |
+| Immersive Integration | [0.6.8](https://www.curseforge.com/minecraft/mc-mods/immersive-integration/files/2289306) | ✅ | - |
+| Industrial Craft 2 | [2.2.827-experimental](https://www.curseforge.com/minecraft/mc-mods/industrial-craft/files/2353971) | ✅ | - |
+| INpureCore | [1.0.0B9-62](https://www.curseforge.com/minecraft/mc-mods/inpurecore/files/2238507) | ✅ | - |
+| Inventory Tweaks | [1.59-dev-152-cf6e63](https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks/files/2210792) | ✅ | - |
+| Iron Chest | [6.0.62.742](https://www.curseforge.com/minecraft/mc-mods/iron-chests/files/2230908) | ✅ | - |
 | ItemBlacklist |  | ⚠️ | Added |
 | It's the little things |  | ⚠️ | Updated |
-| IvToolkit | [1.2.1] |  | - |
-| JABBA | [1.2.2_1.7.10] |  | - |
+| IvToolkit | [1.2.1](https://www.curseforge.com/minecraft/mc-mods/ivtoolkit/files/2294442) | ✅ | - |
+| JABBA | [1.2.2_1.7.10](https://www.curseforge.com/minecraft/mc-mods/jabba/files/2302354) | ✅ | - |
 | JourneyMap | `<none>` | ⚠️ | Removed |
-| Just Another Spawner | [0.17.8] |  | - |
-| Just Another Spawner Compatibility Addon | [1.2.0] |  | - |
-| Just What I Needed | [0.10.2] |  | - |
+| Just Another Spawner | [0.17.8](https://www.curseforge.com/minecraft/mc-mods/just-another-spawner/files/2380961) | ✅ | - |
+| Just Another Spawner Compatibility Addon | [1.2.0](https://www.curseforge.com/minecraft/mc-mods/jas-compatability-addon/files/2232698) | ✅ | - |
+| Just What I Needed | [0.10.2](https://www.curseforge.com/minecraft/mc-mods/just-what-i-needed-mod/files/2290233) | ✅ | - |
 | kleeslabs |  | ⚠️ | Added |
-| libVulpes |  | ⚠️ | Updated |
+| libVulpes | [0.2.8-37](https://www.curseforge.com/minecraft/mc-mods/libvulpes/files/2812784) | ⚠️ | Updated |
 | Llamas |  | ⚠️ | Added |
-| LLibrary | [1.5.1-1.7.10] |  | - |
-| Logistics Pipes | [0.9.3.132] |  | - |
-| Loot++ | [0.24_for_1.7] |  | - |
-| Lycanites Mobs | [1.13.X.X] |  | - |
+| LLibrary | [1.5.1-1.7.10](https://www.curseforge.com/minecraft/mc-mods/llibrary/files/2319767) | ✅ | - |
+| Logistics Pipes | 0.9.3.132 (take the jar from pack version 5.3.2) | ✅ | - |
+| Loot++ | [0.24_for_1.7](https://www.curseforge.com/minecraft/mc-mods/loot/files/2311063) | ✅ | - |
+| Lycanites Mobs | [1.13.0.5](https://www.curseforge.com/minecraft/mc-mods/lycanites-mobs/files/2268607) | ✅ | - |
 | MachineMuse's Modular Powersuits |  | ⚠️ | Updated |
-| Magic Bees | [1.7.10-2.4.4] |  | - |
+| Magic Bees | [1.7.10-2.4.4](https://www.curseforge.com/minecraft/mc-mods/magic-bees/files/2468320) | ✅ | - |
 | Magic Cookies | `<none>` | ⚠️ | Added, Removed |
 | Magmaox | [1.0] |  | - |
 | Magneticraft | [0.6.0-final] |  | - |
