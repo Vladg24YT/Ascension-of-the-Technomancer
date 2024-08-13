@@ -17,7 +17,7 @@ Some aesthetic mods have been removed in 6.0.1, however the exact mods were not 
 | Advanced Hook Launchers | [1.7.10-2.1.1.0 build 0061](https://www.curseforge.com/minecraft/mc-mods/advanced-hook-launchers/files/2432339) | ✅ | - |
 | Advanced Rocketry | [1.7.10-1.2.2](https://www.curseforge.com/minecraft/mc-mods/advanced-rocketry/files/2433239) | ✅ | - |
 | Adventurebackpack | [Beta-0.8c](https://www.curseforge.com/minecraft/mc-mods/adventure-backpack/files/2267532) | ⚠️ | Added |
-| Advent of Ascension | [Tslat 1.0](https://www.curseforge.com/minecraft/mc-mods/advent-of-ascension-nevermine/files/2973554)? | ⚠️ | Updated |
+| Advent of Ascension | `2.5` -> [Tslat 1.0](https://www.curseforge.com/minecraft/mc-mods/advent-of-ascension-nevermine/files/2973554)? | ⚠️ | Updated |
 | AE2 Stuff | [0.5.1.9 for AE rv3](https://www.curseforge.com/minecraft/mc-mods/ae2-stuff/files/2270295) | ✅ | - |
 | Aether Aspects | [1.7.10-1.2](https://www.curseforge.com/minecraft/mc-mods/aether-aspects/files/2230497) | ✅ | - |
 | Aether II | [1.7.10-1.6](https://www.curseforge.com/minecraft/mc-mods/aether-ii/files/2273367) | ✅ | - |
@@ -40,7 +40,7 @@ Some aesthetic mods have been removed in 6.0.1, however the exact mods were not 
 | Automagy | [1.7.10-0.28.2](https://www.curseforge.com/minecraft/mc-mods/automagy/files/2285272) | ✅ | - |
 | Avaritia | [1.11](https://www.curseforge.com/minecraft/mc-mods/avaritia/files/2285861) | ✅ | - |
 | Avaritia Additions | [1.4](https://www.curseforge.com/minecraft/mc-mods/avaritiaddons/files/2460516) | ✅ | - |
-| Backlytra |  | ⚠️ | Added |
+| Backlytra |  | ⚠️ | Added |https://www.curseforge.com/minecraft/mc-mods/gendustry/files/2293751
 | Barkifier |  | ⚠️ | Added |
 | Baublelicious | `<none>` | ⚠️ | Removed |
 | Back in Slime |  | ⚠️ | Added |
@@ -60,7 +60,7 @@ Some aesthetic mods have been removed in 6.0.1, however the exact mods were not 
 | BuildCraft | [7.1.22](https://www.curseforge.com/minecraft/mc-mods/buildcraft/files/2457485) | ✅ | - |
 | BuildCraft Compat | [7.1.5](https://www.curseforge.com/minecraft/mc-mods/buildcraft-compat/files/2297230) | ✅ | - |
 | Builders Guides |  | ⚠️ | Added |
-| Carpenter's Blocks | [3.3.8.2](https://www.curseforge.com/minecraft/mc-mods/carpenters-blocks/files/2719376) | ⚠️ | Updated |
+| Carpenter's Blocks | `3.3.8.1` -> [3.3.8.2](https://www.curseforge.com/minecraft/mc-mods/carpenters-blocks/files/2719376) | ⚠️ | Updated |
 | Catwalks Mod | [2.0.4](https://www.curseforge.com/minecraft/mc-mods/catwalks-2/files/2296725) | ✅ | - |
 | Chance Cubes | [1.7.10-2.4.1.182](https://www.curseforge.com/minecraft/mc-mods/chance-cubes/files/2419789) | ✅ | - |
 | Chisel | [2.9.5.11](https://www.curseforge.com/minecraft/mc-mods/chisel/files/2287442) | ✅ | - |
@@ -69,7 +69,7 @@ Some aesthetic mods have been removed in 6.0.1, however the exact mods were not 
 | ChocoCraft | [4.1.5](https://www.curseforge.com/minecraft/mc-mods/chococraft/files/2224416) | ✅ | - |
 | ChocoCraftPlus | `<none>` | ⚠️ | Added, Removed |
 | Chocolate Quest |  | ⚠️ | Added |
-| ChromatiCraft | [v33a](https://www.curseforge.com/minecraft/mc-mods/chromaticraft/files/4721192) | ⚠️ | Updated |
+| ChromatiCraft | `v18b` -> [v33a](https://www.curseforge.com/minecraft/mc-mods/chromaticraft/files/4721192) | ⚠️ | Updated |
 | ChunkGen | `<none>` | ⚠️ | Removed |
 | Chunk Animator |  | ⚠️ | Added |
 | Chunk Pregenerator |  | ⚠️ | Added |
@@ -82,7 +82,7 @@ Some aesthetic mods have been removed in 6.0.1, however the exact mods were not 
 | Compact Machines |  | ⚠️ | Added |
 | Concrete Mod | `<none>` | ⚠️ | Removed |
 | Cooking for Blockheads | [1.0.140](https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads/files/2299135) | ✅ | - |
-| CraftTweaker | [3.1.0](https://www.curseforge.com/minecraft/mc-mods/crafttweaker/files/2838720) | ⚠️ | Updated |
+| CraftTweaker | `3.0.13` -> [3.1.0](https://www.curseforge.com/minecraft/mc-mods/crafttweaker/files/2838720) | ⚠️ | Updated |
 | Crafting Tweaks | [1.0.88](https://www.curseforge.com/minecraft/mc-mods/crafting-tweaks/files/2457094) | ✅ | - |
 | CrystalWing | [1.7.10.r02](https://www.curseforge.com/minecraft/mc-mods/crystalwing/files/2218944) | ✅ | - |
 | CustomThings | [MC1.7.10-0.0.3-55](https://www.curseforge.com/minecraft/mc-mods/customthings/files/2330592) | ✅ | - |
@@ -99,62 +99,65 @@ Some aesthetic mods have been removed in 6.0.1, however the exact mods were not 
 | Dimension Guard | `<none>` | ⚠️ | Removed |
 | Ding | `<none` | ⚠️ | Removed |
 | Doomlike Dungeons | [1.8.13] |  | - |
-| DragonAPI | [v33b](https://www.curseforge.com/minecraft/mc-mods/dragonapi/files/4722480) | ⚠️ | Updated |
+| DragonAPI | `v18b` -> [v33b](https://www.curseforge.com/minecraft/mc-mods/dragonapi/files/4722480) | ⚠️ | Updated |
 | Dungeon Pack | [1.7.10-1.0] |  | - |
 | Dynamic Dynamos |  | ⚠️ | Added |
 | Dynamic Surroundings |  | ⚠️ | Added |
-| Dynamic Sword Skills | [1.7.1] |  | - |
+| Dynamic Sword Skills | [1.7.1](https://www.curseforge.com/minecraft/mc-mods/dynamic-sword-skills/files/2495462) | ✅ | - |
 | Dynamic Tick |  | ⚠️ | Added |
 | EiraMoticons | `<none>` | ⚠️ | Removed |
-| ElecCore | [1.4.294] |  | - |
+| ElecCore | [1.4.294](https://www.curseforge.com/minecraft/mc-mods/eleccore/files/2309856) | ✅ | - |
 | ElectriCraft |  | ⚠️ | Added |
-| Emotes | [1.0.1] |  | - |
-| EnderCore | [1.7.10-0.2.0.39_beta] |  | - |
-| EnderStorage | [1.4.7.37] |  | - |
-| EnderTech | [1.7.10-0.3.2.393] |  | - |
-| Ender IO | [1.710-2.3.0.429_beta] |  | - |
-| Ender IO Addons | [0.10.13] |  | - |
-| Ender Zoo | [1.7.10-1.0.15.32] |  | - |
-| Epic Siege Mod | [10.0.148] |  | - |
-| Eternal Singularity |  | ⚠️ | Updated |
-| Et Futurum | [1.5.5] |  | - |
-| Eureka | [3.0.2] |  | - |
+| Emotes | [1.0.1](https://www.curseforge.com/minecraft/mc-mods/emotes/files/2242211) | ✅ | - |
+| EnderCore | [1.7.10-0.2.0.39_beta](https://www.curseforge.com/minecraft/mc-mods/endercore/files/2331048) | ✅ | - |
+| EnderTech | [1.7.10-0.3.2.405](https://www.curseforge.com/minecraft/mc-mods/endertech/files/2260928) | ✅ | - |
+| Ender IO | [1.710-2.3.0.429_beta](https://www.curseforge.com/minecraft/mc-mods/ender-io/files/2322348) | ✅ | - |
+| Ender IO Addons | [0.10.13](https://www.curseforge.com/minecraft/mc-mods/ender-io-addons/files/2408180) | ✅ | - |
+| Ender Storage | [1.4.7.37](https://www.curseforge.com/minecraft/mc-mods/ender-storage/files/2262092) | ✅ | - |
+| Ender Zoo | [1.7.10-1.0.15.32](https://www.curseforge.com/minecraft/mc-mods/ender-zoo/files/2252457) | ✅ | - |
+| Epic Siege Mod | [10.0.148](https://www.curseforge.com/minecraft/mc-mods/epic-siege-mod/files/2288000) | ✅ | - |
+| Eternal Singularity | `1.0.4` -> [1.0.4b](https://www.curseforge.com/minecraft/mc-mods/eternal-singularity/files/2577977) | ⚠️ | Updated |
+| Et Futurum | [1.5.5](https://legacy.curseforge.com/minecraft/mc-mods/et-futurum/files/2281148) | ✅ | - |
+| Eureka | [3.0.2](https://www.curseforge.com/minecraft/mc-mods/eureka/files/2235481) | ✅ | - |
 | Evilcraft |  | ⚠️ | Added |
 | Ewy's Workshop |  | ⚠️ | Added |
-| Extra Cells 2 | [2.3.14] |  | - |
-| Extra Utilities | [1.2.12] |  | - |
+| ExtraCells2 | [2.3.14](https://legacy.curseforge.com/minecraft/mc-mods/extracells2/files/2308206) | ✅ | - |
+| Extra Utilities | [1.2.12](https://www.curseforge.com/minecraft/mc-mods/extra-utilities/files/2264383) | ✅ | - |
 | FairyLights |  | ⚠️ | Added |
 | Fancy Block Particles |  | ⚠️ | Added |
-| FastCraft | [1.23] |  | - |
-| Flat Signs | [2.1.0.19] |  | - |
-| Flaxbeard's Steam Power | [0.29.2] |  | - |
-| Forbidden Magic | [1.7.10-0.575] |  | - |
-| Forestry | [4.2.16.64] |  | - |
-| Forge Endertech | [1.7.10-1.9.2.0] |  | - |
-| Fossils and Archeology Revival | [7.3.1] |  | - |
-| FTBLib | [1.7.10-1.0.18.2] |  | - |
-| FTBUtilities | [1.7.10-1.0.18.2] |  | - |
-| Funky Locomotion | [beta-7] |  | - |
-| Gadomancy | [1.7.10-1.0.7.3] |  | - |
-| Garden Containers | [1.7.10-1.7.0] |  | - |
+| FastCraft | [1.23](https://www.curseforge.com/minecraft/mc-mods/fastcraft/files/2292386) | ✅ | - |
+| FlatSigns | [2.1.0.19](https://www.curseforge.com/minecraft/mc-mods/flatsigns/files/2217447) | ✅ | - |
+| Flaxbeard's Steam Power | [0.29.2](https://www.curseforge.com/minecraft/mc-mods/flaxbeards-steam-power/files/2297917) | ✅ | - |
+| Forbidden Magic | [1.7.10-0.575](https://www.curseforge.com/minecraft/mc-mods/forbidden-magic/files/2303822) | ✅ | - |
+| Forestry | [4.2.16.64](https://www.curseforge.com/minecraft/mc-mods/forestry/files/2333823) | ✅ | - |
+| ForgeEndertech | [1.7.10-1.9.2.0](https://www.curseforge.com/minecraft/mc-mods/forgeendertech/files/2432334) | ✅ | - |
+| Forge Multi Part | [1.2.0.345](https://www.curseforge.com/minecraft/mc-mods/forge-multi-part/files/2242993) | ✅ | - |
+| Forge Relocation | [0.0.1.4](https://www.curseforge.com/minecraft/mc-mods/forge-relocation/files/2249874) | ✅ | - |
+| Forge Relocation FMP Plugin | [0.0.1.2](https://www.curseforge.com/minecraft/mc-mods/forge-relocation-fmp-plugin/files/2244822) | ✅ | - |
+| Fossils and Archeology Revival | [7.3.1](https://www.curseforge.com/minecraft/mc-mods/fossils/files/2316723) | ✅ | - |
+| FTBLib | [1.7.10-1.0.18.2](https://www.curseforge.com/minecraft/mc-mods/ftb-library-legacy-forge/files/2291194) | ✅ | - |
+| FTBUtilities | [1.7.10-1.0.18.2](https://www.curseforge.com/minecraft/mc-mods/ftb-utilities-forge/files/2291195) | ✅ | - |
+| Funky Locomotion | [Beta 7](https://www.curseforge.com/minecraft/mc-mods/funky-locomotion/files/2252223) | ✅ | - |
+| Gadomancy | [1.7.10-1.0.7.3](https://www.curseforge.com/minecraft/mc-mods/gadomancy/files/2338768) | ✅ | - |
+| Garden Stuff | [1.7.10-1.7.0](https://www.curseforge.com/minecraft/mc-mods/garden-stuff/files/2269692) | ✅ | - |
 | gearswap |  | ⚠️ | Added |
-| Gendustry |  | ⚠️ | Updated |
+| Gendustry | `1.6.3.132` -> [1.6.4.135](https://www.curseforge.com/minecraft/mc-mods/gendustry/files/2293751) | ⚠️ | Updated |
 | Generator Mods | `<none>` | ⚠️ | Added, Removed |
 | GeoStrata |  | ⚠️ | Added |
-| Gilded Games Utility | [1.7.10-1.1] |  | - |
+| Gilded Games Utility | [1.7.10-1.3.2](https://www.curseforge.com/minecraft/mc-mods/gilded-games-util/files/2273362) | ✅ | - |
 | GraveStones |  | ⚠️ | Added |
 | Gravitation Suite | [1.7.10-2.0.3] |  | - |
-| GregTania | [0.0.2] |  | - |
-| GregTech | [5.09.32.pre5] | ⚠️ | Updated |
+| GregTania | [0.0.2](https://www.curseforge.com/minecraft/mc-mods/gregtania/files/2397406) | ✅ | - |
+| GregTech | `5.09.31` -> [5.09.32.pre5](https://onedrive.live.com/?id=478CC928A26B8E66%212067&cid=478CC928A26B8E66) | ⚠️ | Updated |
 | GT Vein Locator | [v1.0.7] |  | - |
 | GTTweaker |  | ⚠️ | Updated |
-| guardianchest | [1.6] |  | - |
-| Guide API | [1.7.10-1.0.1-29] |  | - |
-| Hardcore Darkness | [1.7] |  | - |
-| Hardcore Ender Expansion | [1.8.6] |  | - |
+| Guardian Chests | [1.6](https://www.curseforge.com/minecraft/mc-mods/guardian-chests/files/2259848) | ✅ | - |
+| Guide-API | [1.7.10-1.0.1-29](https://www.curseforge.com/minecraft/mc-mods/guide-api/files/2287184) | ✅ | - |
+| Hardcore Darkness | [1.7](https://www.curseforge.com/minecraft/mc-mods/hardcore-darkness/files/2262352) | ✅ | - |
+| Hardcore Ender Expansion | [1.8.6](https://www.curseforge.com/minecraft/mc-mods/hardcore-ender-expansion/files/2316923) | ✅ | - |
 | Hardcore Questing Mode | `<none>` | ⚠️ | Removed |
-| Hardcore Wither | [1.1.3] |  | - |
-| Headcrumbs | [1.7.4] |  | - |
+| Hardcore Wither | [1.1.3](https://www.curseforge.com/minecraft/mc-mods/hardcore-wither/files/2282681) | ✅ | - |
+| Headcrumbs | [1.7.4](https://www.curseforge.com/minecraft/mc-mods/headcrumbs/files/2279949) | ✅ | - |
 | Hunger Overhaul | [1.0.0.jenkins104] |  | - |
 | iChunUtil | [4.2.3] |  | - |
 | Immersive Engineering | [0.7.7] |  | - |
